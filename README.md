@@ -4,9 +4,31 @@
 - 💞️ I’m looking to collaborate on ...S.P.E.C.T.R.A.™©
 - 📫 How to reach me ...@odzmaker
 - 🏴‍☠️  You Don't have to be a Billionaire to have your own J.A.R.V.I.S.
-- Welcome to the world of S.P.E.C.T.R.A.™(System for Personalized Engagement, Communication, Task Resolution, and Assistance) is a groundbreaking AI-powered personal assistant designed to revolutionize the way we interact with technology. It aims to provide a more human-like, engaging, and personalized user experience, bridging the gap between human communication and AI interactions.
+-
+- Welcome to the world of S.P.E.C.T.R.A.™(System for Personalized Engagement, Communication, Task Resolution, and Assistance) is a groundbreaking AI-powered
+- personal assistant designed to revolutionize the way we interact with technology. It aims to provide a more human-like, engaging, and personalized user experience,
+- bridging the gap between human communication and AI interactions.
+-
 - This is a W.I.P. and mostly for reseach purposes 
-<!---
-odzmaker/odzmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
+- BackStory / History / EXP.
+-
+-  I'm Not a Data Scientist, not a Neurologist, not a Fullstack Senior Dev. , I'm not any of those. I'm just fascinated With AI .
+- I built my first PC in 1987 I've allways built my PC's. My first "computer" was a Commodaore Vic20 that I got when I was 11yo.
+- I Taught myself BASiC on that with just the manual that came with it. Few people knew what "The Internet" was back then, Hell they
+- were just getting Cable service then.
+- And I Am Litterally an AMD Liffer!! I've never used any other Processor in any of my Rigs.Which is another Reason this needs more AMD eyes on it .
+- Through the 80's to 2000 I watched the internet Form before my very eyes. I was on Prodigy , had used CompuServe, Used Mosaic before the WWW was known
+- I still use my original AOL Email account to this Very day .
+- I Learnd HTML , built websites did all the things . BUT I was naive, I had No Idea what would come
+- and even fewer people believed in what I Saw. And I missed The boat !!
+- I had to feed my child , and raise a family and at that time there
+- just wasn't enough momentum or interest for me to move down that path (which I've Regreted every day since). Everyone thought it was a "FAD".
+-
+-  Here We Are 40 some odd years later! after a life of hard work in Home Renovation and Remodleing. I'm too old and Tired to keep that up .
+- I've always kept up with what was going on in the virtual world , there hasn't been a day I wasn't "Connected" But I'm Here to Pick up where I Left off
+- all those years ago. It's going to be hard and i'll struggle , but these are the tool that will help me. and I'm sure I may find At Least a few people
+- that will have some faith in me and my Vision. I'm unortodox , my Grammar is shit!, can't spell half the time . and i'm becoming a Grumpy old man. (lol)
+- But I know ONE Thing !!
+-  I am NOT missing This BOAT a Second Time !!
+-   <!---odzmaker/odzmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
